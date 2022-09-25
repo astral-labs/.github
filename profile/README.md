@@ -1,2 +1,1 @@
-# .github
-Hey, this is Astral Labs 👋
+Hey, here is Astral Labs 👋
